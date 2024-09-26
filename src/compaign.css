@@ -1,0 +1,13 @@
+/* .navigation {
+    width: 50%;
+    border: 1px black solid;
+} */
+body{
+}
+
+.compaignDetails{
+    font-size: 15;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
